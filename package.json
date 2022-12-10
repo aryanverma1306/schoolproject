@@ -9,7 +9,7 @@
   "author": "Aryan Verma",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.0",
+    "express": "^4.17.3",
     "mongodb": "^3.5.2",
     "request": "^2.81.0"
   }
